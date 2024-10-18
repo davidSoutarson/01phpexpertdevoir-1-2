@@ -1,4 +1,6 @@
 <?php
+# Atention Branche master
+
 // Inclure la configuration globale
 /* include("../../root.php"); */
 require_once("../../root.php");
@@ -19,3 +21,8 @@ require_once(VIEWS_PATH_PH1 . "pageAccueille.php");
 // Inclure le footer
 require_once(VIEWS_PATH . "Footer.html");
 ?>
+
+<!--
+# Atention Branche master
+# nous somme sur la branche master 
+-->

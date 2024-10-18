@@ -1,4 +1,5 @@
 <?php
+# Atention Branche master
 
 /**
  * Configuration de base du projet.
@@ -35,3 +36,5 @@ define('CSS_PATH', BASE_URL . 'css/style.css');
 $homeUrl = BASE_URL . 'index.php';
 $php1Url = BASE_URL . 'Devoir_PHP/PHP1/index.php';
 $php2Url = BASE_URL . 'Devoir_PHP/PHP2/index.php';
+
+# Atentition Branche master
