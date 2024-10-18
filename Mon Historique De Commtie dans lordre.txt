@@ -1,3 +1,0 @@
-Historique de mes commite
-
-01 Commit-01. 18/10/2024  inisialisation du projet. Branche master. Commit-01 fonctionelle. Ne pas modifier avant. Avencer majeur verfier et fonctionlle */

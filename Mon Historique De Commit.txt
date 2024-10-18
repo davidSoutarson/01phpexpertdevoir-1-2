@@ -1,0 +1,13 @@
+Historique de mes commit
+
+01 Commit-01. 18/10/2024  inisialisation du projet. Branche master. Commit-01 fonctionelle. Ne pas modifier avant. Avencer majeur verfier et fonctionlle */
+
+02 Commite-02 Test de la BancheDeTravaille
+
+03 Commit-03 Mineur Modif.
+Renommer fichier : Mon Historique De Commtie dans lordre.txt
+par => Mon Historique De Commit.txt 
+Modification de fichier : Mon Historique De Commit.txt  
+Ajout de fichier? : NON
+PAS AUTRE MODIFICATION
+sur la BancheDeTravaille: a  17H30  le 18/10/2024
