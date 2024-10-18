@@ -11,6 +11,8 @@ require_once(VIEWS_PATH . "Header.php");
 
 <p> ici on ajoute le contenue de la page d'accueill du devire 1.php </p>
 
+<p> modife 5 </p>
+
 <?php
 require_once(VIEWS_PATH_PH1 . "pageAccueille.php");
 
