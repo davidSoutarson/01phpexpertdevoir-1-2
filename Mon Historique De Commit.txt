@@ -11,3 +11,5 @@ Modification de fichier : Mon Historique De Commit.txt
 Ajout de fichier? : NON
 PAS AUTRE MODIFICATION
 sur la BancheDeTravaille: a  17H30  le 18/10/2024
+
+04 Cration de la BramncheDeteste02
