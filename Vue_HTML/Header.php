@@ -19,6 +19,9 @@
                     <a class="iteme" href="<?php echo $homeUrl; ?>">Accueil</a>
                 </li>
                 <li class="listeIteme">
+                    <a class="iteme" href="<?php echo $ponUrl; ?>">Pon Devoir_PHP </a>
+                </li>
+                <li class="listeIteme">
                     <a class="iteme" href="<?php echo $php1Url; ?>">Devoir PHP 1</a>
                 </li>
                 <li class="listeIteme">

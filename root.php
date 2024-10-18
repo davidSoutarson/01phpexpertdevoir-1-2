@@ -20,6 +20,13 @@ define('BASE_URL', $protocol . $_SERVER['SERVER_NAME'] . '/01phpexpertdevoir-1-2
  */
 define('VIEWS_PATH', BASE_PATH . 'Vue_HTML/');
 
+/* 
+# Ce Nes pas utile pour linstempt
+ * Définir des constantes pour les chemins relatifs des vues (HTML).
+#
+#    define('VIEWS_PATH_Pon', BASE_PATH . 'Vue_HTML/'); 
+*/
+
 /**
  * Définir des constantes pour les chemins: Devoir_PHP/PHP1 relatifs des vues (Devoir_PHP/PHP1/vue).
  */
@@ -33,5 +40,6 @@ define('CSS_PATH', BASE_URL . 'css/style.css');
 
 // Définir les chemins dynamiques pour les liens de navigation
 $homeUrl = BASE_URL . 'index.php';
+$ponUrl = BASE_URL . 'Devoir_PHP/index.php';
 $php1Url = BASE_URL . 'Devoir_PHP/PHP1/index.php';
 $php2Url = BASE_URL . 'Devoir_PHP/PHP2/index.php';

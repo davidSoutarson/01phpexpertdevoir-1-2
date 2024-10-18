@@ -12,4 +12,24 @@ Ajout de fichier? : NON
 PAS AUTRE MODIFICATION
 sur la BancheDeTravaille: a  17H30  le 18/10/2024
 
-04 Cration de la BramncheDeteste02
+04 Cration de la BramncheDeTeste02
+
+## info BramcheDeTravaille01 
+05 Commit-03 Mineur Modif. => Teste des Bramche Modif.
+Modification de fichier : Mon Historique De Commit.txt
+Ajout de fichier? : NON
+AUTRE MODIFICATION : Mineur Modif =>
+Dans PHP1 sur index.php :
+Supprestion Paragraphe <p> et ajout de comentaire
+sur la BancheDeTravaille: a  19H00  le 18/10/2024
+
+## info BramncheDeTeste02
+## info Version Satble précédente : BramcheDeTravaille01 05 Commit-03 
+05 Commit-03  Modif Divers. => Afichage Navigation 
+=> axer Tout les Fichier index.php 
+FICHIER MODIFIER : 3 : Modif => Vue_html/Header.php, Devoir_php/index.php, 01phpexpertdevoir-1-2/root.php 
+Ajout de fichier? : NON
+AUTRE MODIFICATION : Mineur Modif =>
+Modification de fichier : Mon Historique De Commit.txt
+Supprestion Paragraphe <p> et ajout de comentaire
+sur la BancheDeTravaille: a  21h18  le 18/10/2024
