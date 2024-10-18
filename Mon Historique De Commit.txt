@@ -13,3 +13,11 @@ PAS AUTRE MODIFICATION
 sur la BancheDeTravaille: a  17H30  le 18/10/2024
 
 04 Cration de la BramncheDeteste02
+
+05 Commit-03 Mineur Modif. => Teste des Bramche Modif.
+Modification de fichier : Mon Historique De Commit.txt  
+Ajout de fichier? : NON
+AUTRE MODIFICATION : Mineur Modif => 
+Dans PHP1 sur index.php : 
+Supprestion Paragraphe <p> et ajout de comentaire
+sur la BancheDeTravaille: a  19H00  le 18/10/2024
